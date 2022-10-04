@@ -1,0 +1,10 @@
+C:\Users\alunocmc\source\repos\Funcionarios\bin\Debug\Funcionarios.exe.config
+C:\Users\alunocmc\source\repos\Funcionarios\bin\Debug\Funcionarios.exe
+C:\Users\alunocmc\source\repos\Funcionarios\bin\Debug\Funcionarios.pdb
+C:\Users\alunocmc\source\repos\Funcionarios\obj\Debug\Funcionarios.csproj.AssemblyReference.cache
+C:\Users\alunocmc\source\repos\Funcionarios\obj\Debug\Funcionarios.Form1.resources
+C:\Users\alunocmc\source\repos\Funcionarios\obj\Debug\Funcionarios.Properties.Resources.resources
+C:\Users\alunocmc\source\repos\Funcionarios\obj\Debug\Funcionarios.csproj.GenerateResource.cache
+C:\Users\alunocmc\source\repos\Funcionarios\obj\Debug\Funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\alunocmc\source\repos\Funcionarios\obj\Debug\Funcionarios.exe
+C:\Users\alunocmc\source\repos\Funcionarios\obj\Debug\Funcionarios.pdb
